@@ -2,9 +2,9 @@ package main
 
 import "fmt"
 
-var version string = "0.1.0"
+var _version string = "0.1.0"
 
 func main()  {
-	fmt.Printf("gorelease version %s\n", version)
+	fmt.Printf("gorelease version %s\n", _version)
 }
 
