@@ -29,3 +29,10 @@ snapshot:
   name_template: SNAPSHOT-{{.ShortCommit}}
 changelog:
   skip: true
+brews:
+  - tap:
+      owner: mas2020
+      name: homebrew-gorelease
+    folder: Formula
+    homepage: https://github.com/mas2020/homebrew-gorelease
+    description: <description>
