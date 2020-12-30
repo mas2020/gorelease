@@ -35,4 +35,4 @@ brews:
       name: homebrew-gorelease
     folder: Formula
     homepage: https://github.com/mas2020/homebrew-gorelease
-    description: <description>
+    description: This a test app for test formula and goreleaser app
